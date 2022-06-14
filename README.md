@@ -9,7 +9,7 @@ Collect summary statistics on the pounds per square inch (PSI) of the suspension
 Run t-tests to determine if the manufacturing lots are statistically different from the mean population
 
 Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers.
-## Linear Regression
+## Linear Regression to Predict MPG
 
 ![part_one](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/part_one.png)
 
@@ -23,14 +23,13 @@ Design a statistical study to compare vehicle performance of the MechaCar vehicl
 ![total_summary](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
 
 ![lot_summary](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png)
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Even though the overall variance is 62.29, the third lot is 170.3
+
 ## T-Tests on Suspension Coils
 
 ![T_test](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/T_test.png)
 ## Study Design: MechaCar vs Competition.
-
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-
-In your description, address the following questions:
 
 What metric or metrics are you going to test?
 
