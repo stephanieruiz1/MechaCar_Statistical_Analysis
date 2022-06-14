@@ -32,13 +32,15 @@ The design specifications for the MechaCar suspension coils dictate that the var
 ## Study Design: MechaCar vs Competition.
 
 What metric or metrics are you going to test?
+
 cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating
 
 What is the null hypothesis or alternative hypothesis?
+
 Ho: MechaCar is the price good for the performance
 Ha: MechaCar is not the price good for the performance
 
 What statistical test would you use to test the hypothesis? And why?
-two-sample t-tests
+multiple linear regression to get the highest correlation for the price 
 What data is needed to run the statistical test?
 major competitor cars
