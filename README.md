@@ -7,4 +7,6 @@
 
 ![total_summary](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/total_summary.png)
 
+![lot_summary](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/lot_summary.png)
+
 ![T_test](https://github.com/stephanieruiz1/MechaCar_Statistical_Analysis/blob/main/images/T_test.png)
